@@ -7,7 +7,7 @@ A Verificação de Suspeitos foi um teste aplicado em uma seleção para vaga de
 
 ## 🔨 Funcionalidades do projeto
 
-Aplicação web em formato permite ao policial investigar quem roubou a quantia da carteira da vítima, baseado na quantidade de notas encontradas e do total correspondente à unidade monetária.
+Aplicação web neste formato permite ao policial investigar quem roubou a quantia da carteira da vítima, baseado na quantidade de notas encontradas e do total correspondente à unidade monetária.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
